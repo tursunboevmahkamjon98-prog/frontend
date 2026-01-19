@@ -1,0 +1,214 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "New Drought-Resistant Wheat Variety Released",
+      "excerpt": "Scientists have developed a new wheat variety that can withstand extended periods of drought while maintaining high yields.",
+      "category": "Research",
+      "date": "2026-01-15",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 2,
+      "title": "Government Announces Farmer Subsidy Program",
+      "excerpt": "New financial support program aims to help small-scale farmers invest in modern equipment and sustainable practices.",
+      "category": "Policy",
+      "date": "2026-01-12",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 3,
+      "title": "Organic Farming Workshop Series Begins",
+      "excerpt": "Free workshops will teach farmers how to transition to organic farming methods and certification processes.",
+      "category": "Events",
+      "date": "2026-01-10",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 4,
+      "title": "Record Harvest Expected This Season",
+      "excerpt": "Favorable weather conditions and improved farming techniques are expected to result in record crop yields.",
+      "category": "Agriculture",
+      "date": "2026-01-08",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 5,
+      "title": "Smart Irrigation Systems Reduce Water Usage",
+      "excerpt": "New IoT-based irrigation systems help farmers save up to 40% water while improving crop health.",
+      "category": "Technology",
+      "date": "2026-01-05",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 6,
+      "title": "Beekeeping Workshop for Pollination",
+      "excerpt": "Learn how to integrate beekeeping into your farm for better pollination and additional honey income.",
+      "category": "Livestock",
+      "date": "2026-01-03",
+      "image": "/placeholder.svg?height=200&width=400"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Annual Farmers Market Opening",
+      "date": "2026-02-01",
+      "time": "08:00 AM",
+      "location": "Central Town Square",
+      "description": "Join us for the grand opening of this year's farmers market season."
+    },
+    {
+      "id": 2,
+      "title": "Soil Health Workshop",
+      "date": "2026-02-05",
+      "time": "10:00 AM",
+      "location": "Agricultural Center",
+      "description": "Learn about soil testing, composting, and maintaining soil fertility."
+    },
+    {
+      "id": 3,
+      "title": "Livestock Management Seminar",
+      "date": "2026-02-10",
+      "time": "09:00 AM",
+      "location": "Community Hall",
+      "description": "Expert advice on cattle, poultry, and sheep management."
+    },
+    {
+      "id": 4,
+      "title": "Spring Planting Festival",
+      "date": "2026-03-01",
+      "time": "07:00 AM",
+      "location": "Greenfield Farm",
+      "description": "Celebrate the start of planting season with demonstrations and activities."
+    },
+    {
+      "id": 5,
+      "title": "Organic Certification Info Session",
+      "date": "2026-03-15",
+      "time": "02:00 PM",
+      "location": "Online Webinar",
+      "description": "Everything you need to know about getting organic certification."
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "10 Tips for Better Tomato Yields",
+      "excerpt": "Simple techniques to grow healthier, more productive tomato plants in your garden or farm.",
+      "category": "Vegetables",
+      "readTime": "5 min",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Crop Rotation",
+      "excerpt": "Why rotating crops is essential for soil health and pest management.",
+      "category": "Farming Basics",
+      "readTime": "7 min",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 3,
+      "title": "Natural Pest Control Methods",
+      "excerpt": "Effective ways to protect your crops without harmful chemicals.",
+      "category": "Organic",
+      "readTime": "6 min",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 4,
+      "title": "Composting for Beginners",
+      "excerpt": "Start making your own nutrient-rich compost with kitchen and garden waste.",
+      "category": "Soil Health",
+      "readTime": "4 min",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 5,
+      "title": "Drip Irrigation Setup Guide",
+      "excerpt": "Save water and improve plant health with an efficient drip irrigation system.",
+      "category": "Irrigation",
+      "readTime": "8 min",
+      "image": "/placeholder.svg?height=200&width=400"
+    },
+    {
+      "id": 6,
+      "title": "Seasonal Planting Calendar",
+      "excerpt": "Know exactly when to plant each crop for optimal growth and harvest.",
+      "category": "Planning",
+      "readTime": "5 min",
+      "image": "/placeholder.svg?height=200&width=400"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Spring Harvest 2025",
+      "images": [
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Community Farming Day",
+      "images": [
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Livestock & Animals",
+      "images": [
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600",
+        "/placeholder.svg?height=400&width=600"
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "How to Start a Vegetable Garden",
+      "description": "Complete beginner's guide to planning and planting your first vegetable garden.",
+      "thumbnail": "/placeholder.svg?height=200&width=350",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "category": "Gardening",
+      "duration": "12:30"
+    },
+    {
+      "id": 2,
+      "title": "Tractor Maintenance Basics",
+      "description": "Essential maintenance tips to keep your tractor running smoothly.",
+      "thumbnail": "/placeholder.svg?height=200&width=350",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "category": "Equipment",
+      "duration": "18:45"
+    },
+    {
+      "id": 3,
+      "title": "Organic Composting Tutorial",
+      "description": "Learn how to make nutrient-rich compost for your garden.",
+      "thumbnail": "/placeholder.svg?height=200&width=350",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "category": "Organic",
+      "duration": "09:15"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Coop Building Guide",
+      "description": "Step-by-step instructions for building a functional chicken coop.",
+      "thumbnail": "/placeholder.svg?height=200&width=350",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "category": "Livestock",
+      "duration": "25:00"
+    }
+  ]
+}
